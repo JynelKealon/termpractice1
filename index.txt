@@ -1,1 +1,5 @@
-hello
+1. The terminal is used to navigate documents and folders within your computer. The terminal is also used to make easy changes to documents with text. It is supposed to be easier using the terminal to manage and navigate folders within your comouter. The terminal was created before other navigation forms. The terminal is very useful for fast navigation.
+
+2. The major difference between Git and Github is that Git lets you keep track of your files and folders, while Github lets you keep track of your repositories.
+
+3. We use github to organize and track out repositories.
